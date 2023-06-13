@@ -67,3 +67,13 @@ While the project has made significant progress in credit card fraud detection, 
 Our Credit Card Fraud Detection project demonstrates the application of machine learning techniques to identify and
 
  prevent fraudulent transactions. By continuously refining the algorithm, addressing challenges, and incorporating advanced techniques, we strive to create a highly accurate and reliable fraud detection system that ensures the security and confidence of our customers.
+
+## Initial Data Source
+
+@book{leborgne2022fraud,
+title={Reproducible Machine Learning for Credit Card Fraud Detection - Practical Handbook},
+author={Le Borgne, Yann-A{\"e}l and Siblini, Wissam and Lebichot, Bertrand and Bontempi, Gianluca},
+url={https://github.com/Fraud-Detection-Handbook/fraud-detection-handbook},
+year={2022},
+publisher={Universit{\'e} Libre de Bruxelles}
+}
